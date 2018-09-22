@@ -1,4 +1,4 @@
-# springRestAPIConfigWarJar
+# Spring Rest API Configurations for a War or a Jar.
 
 This Application can be deployed either as WAR or ran as a JAR file.
 Thanks to SpringBootTomcatApplication it works as a WAR.
