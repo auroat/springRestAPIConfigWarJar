@@ -1,4 +1,4 @@
-# Spring Rest API Configurations for a War or a Jar.
+# Spring Rest API Configurations for a War or a Jar [RPC (Remote Procedure Call)].
 
 This Application can be deployed either as WAR or ran as a JAR file.
 Thanks to SpringBootTomcatApplication it can work as a WAR.
